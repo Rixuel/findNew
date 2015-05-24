@@ -277,7 +277,8 @@ void showNewFiles(FILE *fp1, FILE *fp2)
 	}
 	*/
 	
-	printf("\nAny new files/folders are listed below... \n\n");
+	printf("\nSame contents from both files won't be displayed. \n");
+	printf("Different contents will be listed below... \n\n");
 	
 	int a,b,ctemp=0,csame=0;
 	if (nlines<=nlines2)
