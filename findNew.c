@@ -384,7 +384,7 @@ void exeProg()
 	char choice[10];
 	
 	printf("+----------------------------+\n");
-	printf("| FindNew by Rixuel Patrick] |\n");
+	printf("| FindNew by Rixuel Patrick  |\n");
 	printf("+----------------------------+\n\n");
 	printf("Menu:\n");
 	printf(" 1 - List contents of current Directory. \n");
