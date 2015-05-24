@@ -1,7 +1,17 @@
 # findNew
+(Can be use in Terminal or by clicking on the executable.)
+
 Similar to the famous command line "ls" and "dir". It lists all files/folders of a directory.
 
 You can save list of your current directory in a text file. In the future, save another new list of the directory in another text file. Compare the two text files to find different files/folders.
+
+Options
+
+1. List contents of current Directory.
+2. List contents of selected Directory.
+3. Compare two .txt files.
+4. Help.
+0. Exit program.
 
 How the program find difference?
 
