@@ -20,3 +20,7 @@ How the program find difference?
 3. It uses the file with less lines and starts to compare with the other one.
 4. Everytime a same string of a same line is in both text files, its result will be hide.
 
+Terminal Usage:
+- Check in current Dir:  ./checkThis
+- Check in a Dir:        ./checkThis folder
+- Check for new files:   ./checkThis oldlist.txt newlist.txt
