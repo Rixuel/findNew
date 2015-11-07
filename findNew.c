@@ -1,6 +1,6 @@
 // FindNew
 // Author: Rixuel Patrick
-// ----
+
 #include <ctype.h>
 #include <dirent.h>
 #include <stdio.h>
